@@ -1,0 +1,38 @@
+.bd-placeholder-img {
+        font-size: 1.125rem;
+        text-anchor: middle;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        user-select: none;
+      }
+
+      @media (min-width: 768px) {
+        .bd-placeholder-img-lg {
+          font-size: 3.5rem;
+        }
+      }
+.album{
+  margin-top: 10px;
+}
+a{
+  text-decoration: none;
+}
+.w-400{
+    width: 400px;
+}
+.fs-xs {
+    font-size: 1rem;
+}
+a{
+    text-decoration: none;
+}
+.fs-big{
+    font-size: 5rem !important;
+}
+
+.w-15{
+    width: 15%;
+}
+
+
+/* Header */
